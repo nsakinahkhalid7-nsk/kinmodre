@@ -21,6 +21,7 @@ More details on each model; number of metabolites, enzymes, and reactions; are l
 1. UniKin2 (2025) on Pan-Reactome [[publication](https://github.com/mauriceling/mauriceling.github.io/wiki/UniKin2-%E2%80%93-A-Universal%2C-Pan-Reactome-Kinetic-Model)]
 1. ddsAAR26
 1. taqTT26
+1. spnLHP26
 
 ### List of Whole Cell Kinetic Models Converted from Genome-Scale Models (GSMs)
 As these Kinetic Models were converted from their respective GSMs using [Amir-Hamzah et al. (2022)](https://github.com/mauriceling/mauriceling.github.io/wiki/Kinetic-Models-with-Default-Enzyme-Kinetics-from-Genome-scale-Models), there are only model specification files (.modelspec) in the [asm](https://github.com/mauriceling/kinmodre/tree/main/asm) folder - there may not be an equivalent data package for each converted model. However, the source GSMs are in [GSM](https://github.com/mauriceling/kinmodre/tree/main/GSM) folder, and the resulting Python files are in [GSM-odescripts](https://github.com/mauriceling/kinmodre/tree/main/GSM-odescripts) folder. Hence, the GSM file, model specification file, and generated Python file will have the same name; for example, the iAF1260.xml [GSM](https://github.com/mauriceling/kinmodre/tree/main/GSM) folder is the source GSM that was converted into iAF1260.modelspec in [asm](https://github.com/mauriceling/kinmodre/tree/main/asm) folder; which is used to generate the Python simulation file, iAF1260.py, in [GSM-odescripts](https://github.com/mauriceling/kinmodre/tree/main/GSM-odescripts) folder.

@@ -3,7 +3,7 @@ type: 1
 
 [Identifiers]
 name: Whole Cell Kinetic Model (Enzymatic reactions with enzyme transcriptions and translations) of Thermus Aquaticus Y51MC23
-author:  
+author: Tristan Tay
 
 [Objects]
 C00001 : Water

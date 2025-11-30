@@ -1,0 +1,10 @@
+﻿To generate ODE script from model specification
+python astools.py genODE --modelfile=models/asm/lcaKKNC26.modelspec --mtype=ASM --solver=RK4 --timestep=0.1 --endtime=3600 --lowerbound=0;0 --upperbound=1000;1000 --odefile=lcaKKNC26.py
+
+
+To execute ODE script
+python astools.py runODE --odefile=lcaKKNC26.py --sampling=20 --resultfile=result_lcaKKNC26.csv
+
+
+To generate SIF visualization file
+python astools.py genNetwork --outfmt=SIF --modelfile=models/asm/lcaKKNC26.modelspec --outputfile=lcaKKNC26.sif

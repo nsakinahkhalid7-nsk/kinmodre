@@ -34,6 +34,7 @@ More details on each model are listed in [List of GSM-Converted Kinetic Models](
 1. iAB_RBC_283 [Source: BiGG]
 1. iAF1260 [Source: BiGG]
 1. iEC_1301 [Source: BiGG]
+1.STM_V1_0 [Source: BiGG]
 1. iML1515 [Source: BiGG]
 1. Recon3D [Source: BiGG]
 

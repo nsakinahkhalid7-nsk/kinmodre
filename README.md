@@ -67,5 +67,6 @@ More details on each model are listed in [List of GSM-Converted Kinetic Models](
 1. iMM904 [Source: BiGG]
 1. iMM1415 [Source: BiGG]
 1. iLJ478 [Source: BiGG]
+1. iLF82_1304 [Source: BiGG]
 
 [BiGG] Norsigian et al. 2020. BiGG Models 2020: multi-strain genome-scale models and expansion across the phylogenetic tree. Nucleic Acids Research 48(D1):D402–D406. https://doi.org/10.1093/nar/gkz1054
